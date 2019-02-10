@@ -43,11 +43,10 @@ GRE: 154+167+3.0
 补充：半年美国交流，绩点4.0；一次国奖，三次一奖以及若干小奖
 出身：东北大学（说实话，这个出身，在CS的众多申请者里面，算是有点弱的了）
 ```
-选校及录取情况
+选校及录取情况-更新
 ```
-AD: CGGT@Upenn, CS@NWU, Telecommunication@UMD
-Rej: Big Data@Boston, CS@UW-M,UMD,UMN,Rice,OSU,NEU
-在等: Big Data@HKUST, Network@NEU, CS@Imperial College London，KCL,USC
+AD: CGGT@Upenn, CS@NWU, Telecommunication@UMD, General CS@USC 19 Spring, Network@NEU
+Rej: Big Data@Boston, CS@UW-M,UMD,UMN,Rice,OSU,NEU, Big Data@HKUST, CS@Imperial College London，KCL
 ```
 其他四个在等的没什么怨言，毕竟交的迟，但是这个USC啊！申请体验贼差！！！1月份交的到现在一
 个春季的rej也没给我，还在吊我胃口，气死宝宝了！！！
